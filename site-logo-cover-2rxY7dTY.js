@@ -1,0 +1,1 @@
+var e=`/assets/site-logo-cover-DEbsA4Lw.jpg`;export{e as t};
